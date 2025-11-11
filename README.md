@@ -6,7 +6,7 @@ Este repositorio contiene el trabajo final del laboratorio I: un proceso complet
 
 ## Abrir y ejecutar en Google Colab
 
-Ejecutá el notebook directamente en Colab (recomendado — entorno ya preparado):
+Ejecutá el notebook directamente en Colab:
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gonzalo2sotomayor/Analisis-Cultivos-Agricolas/blob/main/analisis_cultivos_agricolas.ipynb)
 
